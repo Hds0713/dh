@@ -2,6 +2,10 @@
   系统工具:
     url: https://www.aichunjing.com/
     desc: Windows 安装
+  应用软件:
+    url: https://www.rjgcz.com
+    desc: 软件分享
+    icon: https://www.rjgcz.com/favicon.ico
   软件工具:
     url: http://www.j9p.com/
     desc: 手机APP
