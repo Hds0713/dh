@@ -1,7 +1,7 @@
 {
-  "SITE_TITLE": "HDS🧭导航",
-  "SITE_DESCRIPTION": "一个简洁、纯静态的个人导航站",
-  "COPYRIGHT": "© 2026 <a href='https://github.com/Hds0713/dh' target='_blank'>HDS-Nav</a> | <a href='editor.html'>Editor</a>",
+  "SITE_TITLE": "网站🧭导航",
+  "SITE_DESCRIPTION": "个人导航站",
+  "COPYRIGHT": "© 项目 <a href='https://github.com/Hds0713/dh' target='_blank'>HDS-Nav</a> | <a href='editor.html'>Editor</a>",
   "CARD_CONTENT": 0,
   "SHOW_FAVICON": 1,
   "DEFAULT_ENGINE": "bing",
