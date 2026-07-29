@@ -2,16 +2,19 @@
   系统工具:
     url: https://www.aichunjing.com/
     desc: Windows 安装
+    icon: https://www.aichunjing.com/favicon.ico
   应用软件:
     url: https://www.rjgcz.com
     desc: 软件分享
     icon: https://www.rjgcz.com/favicon.ico
-  破解软件:
+  应用软件:
     url: https://www.678cv.com
     desc: 软件分享
+    icon: https://www.google.com/s2/favicons?sz=64&domain=www.678cv.com
   安卓应用:
     url: http://www.j9p.com/
     desc: 手机APP
+    icon: http://www.j9p.com/favicon.ico
   背景移除:
     url: https://remove-bg.xiaoge.org
     desc: 智能移除图片背景
@@ -19,6 +22,8 @@
   AI 图片编辑:
     url: https://www.photogrid.app/zh-cn/creation/
     desc: 图片编辑
+    icon: https://www.photogrid.app/favicon.ico
   Google AI:
     url: https://gemini.google.com/app
     desc: AI 助手
+    icon: https://www.google.com/s2/favicons?sz=64&domain=gemini.google.com
