@@ -3,9 +3,12 @@
     url: https://www.aichunjing.com/
     desc: Windows 安装
   应用软件:
-    url: https://www.678cv.com/
+    url: https://www.rjgcz.com
     desc: 软件分享
-    icon: https://www.google.com/s2/favicons?sz=64&domain=www.678cv.com
+    icon: https://www.rjgcz.com/favicon.ico
+  应用软件:
+    url: https://www.678cv.com
+    desc: 软件分享
   安卓应用:
     url: http://www.j9p.com/
     desc: 手机APP
