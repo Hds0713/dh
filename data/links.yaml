@@ -15,9 +15,9 @@
     url: http://www.j9p.com/
     desc: 手机APP
     icon: http://www.j9p.com/favicon.ico
-  背景移除:
+  图片背景移除:
     url: https://remove-bg.xiaoge.org
-    desc: 智能移除图片背景
+    desc: 图片编辑
     icon: https://remove-bg.xiaoge.org/favicon.ico
   AI 图片编辑:
     url: https://www.photogrid.app/zh-cn/creation/
@@ -27,3 +27,73 @@
     url: https://gemini.google.com/app
     desc: AI 助手
     icon: https://www.google.com/s2/favicons?sz=64&domain=gemini.google.com
+  油猴脚本:
+    url: https://greasyfork.org/zh-CN/scripts
+    desc: 浏览器插件
+    icon: https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org
+  浏览器:
+    url: https://www.youxiaohou.com/
+    desc: 浏览器集成插件
+    icon: https://www.youxiaohou.com/favicon.ico
+视频:
+  油管视频:
+    url: https://www.youtube.com/
+    desc: 外网-短视频
+    icon: https://www.youtube.com/favicon.ico
+  影视 片库:
+    url: https://www.pys1.com/
+    desc: 在线影视
+    icon: https://www.pys1.com/favicon.ico
+  影视 网飞猫:
+    url: https://www.ncat26.com/
+    desc: 在线影视
+    icon: emoji:🎬
+  体育直播:
+    url: https://yuyantv.cn/
+    desc: 直播
+    icon: https://www.google.com/s2/favicons?sz=64&domain=yuyantv.cn
+  体育博彩:
+    url: https://bb60.com
+    desc: 博彩平台
+    icon: https://www.google.com/s2/favicons?sz=64&domain=bb60.com
+VPN:
+  Cloudflare:
+    url: https://dash.cloudflare.com/login
+    desc: 搭建平台
+    icon: https://dash.cloudflare.com/favicon.ico
+  IP-资源库:
+    url: https://bestcf.pages.dev/
+    desc: Cloudflare EDT 导航 - 搭建Cloudflare节点的第一站 - BestCF.pages.dev
+    icon: https://bestcf.pages.dev/favicon.svg
+  worker 源码:
+    url: https://github.com/cmliu/edgetunnel
+    desc: edgetunnel2 VLESS/Trojan/SS 多功能面板. Contribute to cmliu/edgetunnel development by creating an account on GitHub.
+    icon: https://github.com/favicon.ico
+  VPN 代理工具:
+    url: https://github.com/Kejifaxian/welcome/releases/tag/vpn
+    desc: vpn 节点使用工具
+    icon: https://github.com/favicon.ico
+  dpdns.org 免费域名:
+    url: https://dash.domain.digitalplat.org/auth/login
+    desc: password：Hds19820713
+    icon: https://favicon.yandex.net/favicon/dash.domain.digitalplat.org
+  kdns.fr 免费域名:
+    url: https://dashboard.katabump.com/auth/register
+    desc: password：Hds19820713
+    icon: https://favicon.yandex.net/favicon/dashboard.katabump.com
+  de5.net 免费域名:
+    url: https://my.dnshe.com/clientarea.php?language=chinese&autolang=1
+    desc: password：hds19820713
+    icon: https://my.dnshe.com/favicon.ico
+  虚拟身份:
+    url: http://www.shenfendaquan.com
+    desc: 虚拟个人信息
+    icon: https://favicon.yandex.net/favicon/www.shenfendaquan.com
+  虚拟地址:
+    url: https://ratenn.com/
+    desc: 虚拟个人信息
+    icon: https://ratenn.com/favicon.ico
+  临时邮箱:
+    url: https://www.mffac.com/
+    desc: 接码邮箱
+    icon: https://www.mffac.com/icon-192x192.png
