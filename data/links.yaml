@@ -55,6 +55,14 @@
     url: https://wx.mail.qq.com/
     desc: QQ 邮箱
     icon: https://www.google.com/s2/favicons?sz=64&domain=wx.mail.qq.com
+  小米刷机包:
+    url: https://xiaomirom.com/rom/xiaomi-14-pro-shennong-china-fastboot-recovery-rom/
+    desc: 小米官方刷机包
+    icon: https://xiaomirom.com/favicon.ico
+  我的夸克:
+    url: https://pan.quark.cn/list#/list/all
+    desc: 夸克网盘
+    icon: https://pan.quark.cn/favicon.ico
 视频:
   油管视频:
     url: https://www.youtube.com/
