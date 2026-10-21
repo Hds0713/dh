@@ -72,14 +72,12 @@
     url: https://www.pys1.com/
     desc: 在线影视
     icon: https://www.pys1.com/favicon.ico
+  电影港: https://www.dyg7.com/
   影视 网飞猫:
     url: https://www.ncat26.com/
     desc: 在线影视
     icon: emoji:🎬
-  体育直播:
-    url: https://yuyantv.cn/
-    desc: 直播
-    icon: https://www.google.com/s2/favicons?sz=64&domain=yuyantv.cn
+  体育直播: https://www.88zhibo.tv/
   体育博彩:
     url: https://bb60.com
     desc: 博彩平台
@@ -121,10 +119,6 @@ VPN:
     url: https://ratenn.com/
     desc: 虚拟个人信息
     icon: https://ratenn.com/favicon.ico
-  临时邮箱:
-    url: https://www.mffac.com/
-    desc: 接码邮箱
-    icon: https://www.mffac.com/icon-192x192.png
 VR:
   Galaxy:
     url: https://www.vrporngalaxy.com/
@@ -217,3 +211,4 @@ animation:
     url: https://www.vikacg.com
     desc: VIDEOS
     icon: https://www.google.com/s2/favicons?sz=64&domain=www.vikacg.com
+  vam: https://acgdb.de/3D
