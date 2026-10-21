@@ -35,10 +35,6 @@
     url: https://www.youxiaohou.com/
     desc: 浏览器集成插件
     icon: https://www.youxiaohou.com/favicon.ico
-  Kdown 网盘解析:
-    url: https://kdown.moiu.cn/free/#/list
-    desc: 百度网盘解析
-    icon: https://kdown.moiu.cn/favicon.ico
   相逢 解析:
     url: https://pan.xfyzyyb.xyz/user/parse
     desc: 百度网盘解析
@@ -59,10 +55,6 @@
     url: https://xiaomirom.com/rom/xiaomi-14-pro-shennong-china-fastboot-recovery-rom/
     desc: 小米官方刷机包
     icon: https://xiaomirom.com/favicon.ico
-  我的夸克:
-    url: https://pan.quark.cn/list#/list/all
-    desc: 夸克网盘
-    icon: https://pan.quark.cn/favicon.ico
 视频:
   油管视频:
     url: https://www.youtube.com/
